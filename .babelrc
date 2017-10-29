@@ -9,6 +9,5 @@
   ],
   "plugins": [
     "syntax-dynamic-import"
-  ],
-  "comments": false
+  ]
 }
